@@ -1,0 +1,15 @@
+set font "CozetteVector normal 9"
+
+set recolor true
+
+set default-bg '#282C34'
+set default-fg '#BBC2CF'
+
+set recolor-lightcolor '#282C34'
+set recolor-darkcolor '#BBC2CF'
+
+set inputbar-bg '#21242B'
+set inputbar-fg '#BBC2CF'
+
+set statusbar-bg '#21242B'
+set statusbar-fg '#BBC2CF'
